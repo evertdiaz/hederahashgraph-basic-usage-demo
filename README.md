@@ -7,10 +7,10 @@
 - getTokenAccountBalance.js - Para ver el saldo de tokens de una cuenta
 - transferToken.js - Envío de tokens
 
+---
 
-Formato de credenciales:
-MY_ACCOUNT_ID= 
-MY_PRIVATE_KEY= 
-
-TESTNET_MY_ACCOUNT_ID= 
-TESTNET_MY_PRIVATE_KEY= 
+**Formato de credenciales:**
+`MY_ACCOUNT_ID= `
+`MY_PRIVATE_KEY= `
+`TESTNET_MY_ACCOUNT_ID= `
+`TESTNET_MY_PRIVATE_KEY=`
