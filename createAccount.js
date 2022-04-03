@@ -35,9 +35,10 @@ async function main() {
 
   // Get the new account ID
   const getReceipt = await newAccountTransactionId.getReceipt(client);
+  console.log(getReceipt);
   const newAccountId = getReceipt.accountId;
 
-  console.log("AccountId craedo: " +newAccountId);
+  console.log("AccountId creado: " +newAccountId);
   console.log("Llave privada: " +newAccountPrivateKey);
 
   // Get accound Hbars Balance
